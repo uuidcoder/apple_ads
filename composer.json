@@ -1,0 +1,13 @@
+{
+    "name": "causes/apple_ads",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "causes",
+            "email": "uuidcoder@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
